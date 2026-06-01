@@ -1,0 +1,33 @@
+# Core app
+streamlit
+python-dotenv
+
+# LangChain stack
+langchain
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-experimental
+
+# Vector store
+chromadb
+
+# Keyword search (BM25)
+rank-bm25
+nltk
+
+# PDF parsing / ingestion (used in the notebook)
+PyMuPDF
+pandas
+
+# Token counting + cost tracking
+tiktoken
+numpy
+
+# Logging backend (optional)
+pyairtable
+requests
+
+# Needed only when deploying on some Linux hosts where the system
+# sqlite3 is too old for Chroma (see commented lines at top of app.py):
+# pysqlite3-binary
