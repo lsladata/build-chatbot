@@ -1,0 +1,24 @@
+# ─── Basic template (top-level files) ───────────────────────────
+streamlit              # the chat UI (app.py)
+python-dotenv          # loads your keys from .env (config.py)
+
+langchain-core         # the Document object
+langchain-text-splitters   # chunking (ingest.py)
+langchain-openai       # Azure/OpenAI embedding + chat clients (config.py)
+langchain-chroma       # vector store (ingest.py / search.py)
+chromadb               # the actual vector database
+
+rank-bm25              # keyword search (ingest.py / search.py)
+PyMuPDF                # reading .pdf files (ingest.py); not needed for .txt only
+
+# ─── Needed only for the advanced/ version ──────────────────────
+langchain                  # SelfQueryRetriever, RetrievalQA
+langchain-experimental     # SemanticChunker
+nltk                       # tokenizer used by the advanced BM25 builder
+tiktoken                   # token counting for cost_tracker.py
+pandas                     # PDF table parsing in the ingestion notebook
+pyairtable                 # optional interaction logging
+requests
+
+# Some deploy hosts ship an old sqlite that Chroma rejects; if so, also add:
+# pysqlite3-binary

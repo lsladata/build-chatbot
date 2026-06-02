@@ -1,0 +1,98 @@
+ACME WIDGETS — EMPLOYEE HANDBOOK (SAMPLE)
+
+This is a short, fictional handbook used only to demo the chatbot. Replace the
+files in this folder with your own .txt or .pdf documents and re-run ingest.py.
+
+
+1. WORKING HOURS
+
+Standard working hours are 9:00 AM to 5:00 PM, Monday through Friday. Employees
+may request a flexible schedule by speaking with their manager. Core hours,
+during which everyone is expected to be available for meetings and
+collaboration, are 10:00 AM to 3:00 PM. Outside of core hours, employees are
+free to arrange their start and end times as long as they complete a full
+eight-hour day and meet their commitments. Overtime must be approved in advance
+by a manager and is compensated at 1.5 times the normal hourly rate for
+eligible employees.
+
+
+2. PAID TIME OFF AND VACATION
+
+Full-time employees accrue 20 days of paid vacation per year, accruing at a rate
+of roughly 1.67 days per month worked. In addition to vacation, the company
+observes 10 public holidays each year. Vacation requests should be submitted at
+least two weeks in advance through the company portal so that managers can plan
+around team coverage. Unused vacation of up to 5 days may be carried over into
+the following calendar year; any balance above 5 days is forfeited at year end.
+New employees begin accruing vacation from their first day but may not take
+vacation during their first 90 days of employment without manager approval.
+
+
+3. SICK LEAVE
+
+Employees receive 10 paid sick days per year. Unlike vacation, sick leave does
+not roll over into the next year and is not paid out when an employee leaves the
+company. A doctor's note is required for any sick absence longer than three
+consecutive days. Employees who are unwell are strongly encouraged to stay home
+and rest rather than risk spreading illness to colleagues. Sick leave may also
+be used to care for an immediate family member who is ill.
+
+
+4. REMOTE WORK AND HYBRID SCHEDULES
+
+Employees may work remotely up to three days per week. Fully remote arrangements
+require director approval and are reviewed every six months. The company
+provides a one-time stipend of 500 dollars for home office equipment such as a
+chair, desk, or monitor. Employees working remotely must remain reachable during
+core hours and must ensure they have a secure and private internet connection
+when handling confidential information. Remote work is a privilege and may be
+revoked if performance or communication suffers.
+
+
+5. EXPENSE REIMBURSEMENT
+
+Work-related expenses are reimbursed within 30 days of submission. Receipts are
+required for any expense over 25 dollars. Travel must be booked through the
+company travel portal in order to qualify for reimbursement. Meals during
+business travel are reimbursed up to a daily limit of 60 dollars. Personal
+expenses, fines, and alcohol are never reimbursable. Questions about whether a
+specific expense qualifies should be directed to the finance team before the
+expense is incurred.
+
+
+6. REFUND AND RETURN POLICY (CUSTOMERS)
+
+Customers may return any widget within 60 days of purchase for a full refund,
+provided the widget is undamaged and returned in its original packaging. Refunds
+are processed to the original payment method within 14 business days of the
+return being received. Custom-engraved widgets are made to order and are
+therefore non-refundable. Shipping charges are not refunded except in cases
+where the widget arrived damaged or defective. To start a return, customers
+should use the returns portal and print the prepaid shipping label provided.
+
+
+7. PARENTAL LEAVE
+
+The company offers 12 weeks of paid parental leave to all full-time employees,
+regardless of gender, following the birth or adoption of a child. Parental leave
+must be taken within the first 12 months and may be taken all at once or split
+into two separate blocks. Employees should notify their manager and Human
+Resources at least 30 days before the expected start of leave when possible.
+
+
+8. PROFESSIONAL DEVELOPMENT
+
+Each employee is allocated an annual training budget of 1,000 dollars for
+courses, books, conferences, and certifications relevant to their role. Requests
+are approved by the employee's manager. The company also runs internal lunch-
+and-learn sessions every month and encourages employees to share knowledge with
+their teams.
+
+
+9. CODE OF CONDUCT
+
+All employees are expected to treat colleagues, customers, and partners with
+respect and professionalism. Harassment, discrimination, or bullying of any kind
+is grounds for disciplinary action up to and including termination. Concerns may
+be reported confidentially to the Human Resources department, and the company
+prohibits retaliation against anyone who reports a concern in good faith.
